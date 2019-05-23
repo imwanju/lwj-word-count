@@ -1,0 +1,18 @@
+{
+  "name": "lwj-word-count",
+  "main": "./lib/lwj-word-count",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "lwj-word-count:toggle"
+  },
+  "repository": "https://github.com/atom/lwj-word-count",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

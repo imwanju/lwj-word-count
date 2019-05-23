@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle lwj-word-count",
+        "command": "lwj-word-count:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "lwj-word-count",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "lwj-word-count:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
